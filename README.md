@@ -12,7 +12,7 @@ Welcome to the Audiophile Gear Buying Guide! This comprehensive guide is designe
 4. [Loudspeakers](#loudspeakers)
    - [2.0 Audio](#20-audio)
    - [2.1 Audio](#21-audio)
-   - [5.1 Surround Sound](#51-surround-sound)
+   - [5.1/7.1 Surround Sound](#5171-surround-sound)
    - [Subwoofers](#subwoofers)
 5. [DACs](#dacs)
 6. [Headphone Amps](#headphone-amps)
@@ -259,7 +259,7 @@ A 2.0 audio setup consists of two speakers without a subwoofer. This setup is gr
 
 A 2.1 audio setup consists of two speakers and a subwoofer. The two speakers handle the mid-range and high-frequency audio, while the subwoofer enhances the low-frequency bass response. This setup provides a more immersive audio experience with improved bass performance compared to 2.0 audio.
 
-### 5.1 Surround Sound
+### 5.1/7.1 Surround Sound
 
 5.1 surround sound involves five speakers (front
 
