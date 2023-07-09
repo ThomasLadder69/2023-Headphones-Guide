@@ -261,9 +261,7 @@ A 2.1 audio setup consists of two speakers and a subwoofer. The two speakers han
 
 ### 5.1 Surround Sound
 
-5.1 surround sound involves five speakers (front
-
-left, center, front right, rear left, and rear right) and one subwoofer (LFE - Low-Frequency Effects), creating an immersive audio experience. This setup is commonly used in home theater systems and provides a realistic audio environment.
+5.1 surround sound involves five speakers (front, left, center, front right, rear left, and rear right) and one subwoofer (LFE - Low-Frequency Effects), creating an immersive audio experience. This setup is commonly used in home theater systems and provides a realistic audio environment.
 
 ### Subwoofers
 
@@ -385,9 +383,7 @@ Audio interfaces are external devices designed for recording and playback of aud
 
 ## Microphones
 
-Microphones are essential tools for capturing high-quality audio for recording, podcasting, streaming, and other applications. There are two common types of microphone setups: USB and
-
-XLR.
+Microphones are essential tools for capturing high-quality audio for recording, podcasting, streaming, and other applications. There are two common types of microphone setups: USB and XLR.
 
 ### USB vs. XLR Microphone Setups
 
