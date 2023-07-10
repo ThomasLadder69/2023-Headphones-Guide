@@ -454,9 +454,7 @@ In the world of audio, you have the option to choose between dedicated headphone
 
 ## 5.1/7.1 Surround Sound
 
-Sur
-
-round sound systems provide an immersive audio experience by utilizing multiple speakers to create a three-dimensional soundstage. In addition to the traditional stereo setups, you have the option to explore 5.1 or 7.1 surround sound configurations.
+Surround sound systems provide an immersive audio experience by utilizing multiple speakers to create a three-dimensional soundstage. In addition to the traditional stereo setups, you have the option to explore 5.1 or 7.1 surround sound configurations.
 
 ### Differences between Stereo, 5.1, and 7.1 Surround Sound
 
