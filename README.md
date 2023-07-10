@@ -5,9 +5,9 @@ Welcome to the Audiophile Gear Buying Guide! This comprehensive guide is designe
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
-2. [Headphones](#2-headphones)
-      2.1 [Open-back Headphones](#2.1-open-back-headphones)
-   2.2 [Closed-back Headphones](#2.2-closed-back-headphones)
+2. [Headphones](#2-headphones) 
+   2.1 [Open-back Headphones](#2.1-open-back-headphones) 
+   2.2 [Closed-back Headphones](#2.2-closed-back-headphones) 
 3. [IEMs](#3-iems)
 4. [Loudspeakers and Subwoofers](#4-loudspeakers-and-subwoofers)
     4.1 [Loudspeaker Recommendations](#4.1-loudspeaker-recommendations)
